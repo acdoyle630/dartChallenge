@@ -1,0 +1,20 @@
+{
+  "name": "js-Dart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Dart.js",
+  "scripts": {
+    "test": "mocha --watch test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acdoyle630/dartChallenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acdoyle630/dartChallenge/issues"
+  },
+  "homepage": "https://github.com/acdoyle630/dartChallenge#readme"
+}
